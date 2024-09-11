@@ -1,0 +1,9 @@
+# Ignore all files with the following file extentions:
+* .png
+* .txt
+* .doc
+* .jpg
+
+
+# Ignoring the whole folder and all its contents
+/screen_captures
